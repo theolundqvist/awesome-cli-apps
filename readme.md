@@ -769,6 +769,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [hub](https://github.com/github/hub) - Make git easier to use with GitHub.
 - [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels.
 - [gitfetch](https://github.com/Matars/gitfetch) - Neofetch-style stats of your git forge.
+- [pr-cockpit](https://github.com/theolundqvist/pr-cockpit) - Read and wait on GitHub pull requests from an extremely fast local GitHub; PRs open in about 20 ms.
 
 ### Emoji
 
